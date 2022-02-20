@@ -10,7 +10,7 @@
     <p>:rainbow: Interests: Mechanical keyboards, electronics, cats, cooking, and kaijus</p>
     <p>:earth_africa: Location: Sweden</p>
     <p>:ok_hand: Pronouns: She/her</p>
-    <p lang="zh-Hans">:crystal_ball: Fun fact: 我不但会说一点普通话，而且养了四只猫！</p>
+    <p lang="zh-Hans">:crystal_ball: Fun fact: 我不仅会说一点普通话，还养了四只猫！</p>
  </div>
 
 <!---

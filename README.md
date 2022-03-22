@@ -5,7 +5,7 @@
 <div align="left">
     <p>Front-end developer and web designer with a background in textile, art museums and food</p>
     <p>:rocket: Currently working on: Personal portfolio</p>
-    <p>:pencil2: Currently learning: Intermediate JavaScript, React, Python and C </p>
+    <p>:pencil2: Currently learning: Intermediate JavaScript, React, Node.js, and SQL </p>
     <p>:wrench: What I want to collaborate on: Digital art experiences and databases</p>
     <p>:rainbow: Interests: Mechanical keyboards, electronics, cats, cooking, and kaijus</p>
     <p>:earth_africa: Location: Sweden</p>

@@ -4,13 +4,13 @@
 
 <div align="left">
     <p>Front end developer with a background in textile, art museums, and food</p>
-    <p>:rocket: Currently working on: Personal portfolio, artist client's portfolio</p>
-    <p>:pencil2: Currently learning: Intermediate JavaScript, React and REST API </p>
-    <p>:wrench: What I want to collaborate on: Digital art experiences and databases</p>
+    <p>:rocket: Currently working on: Artist client's portfolio, personal portfolio</p>
+    <p>:pencil2: Currently learning: REST API and network technologies </p>
+    <p>:wrench: What I want to collaborate on: Some niche database service</p>
     <p>:rainbow: Interests: Mechanical keyboards, electronics, cats, cooking, and kaijus</p>
     <p>:earth_africa: Location: Sweden</p>
     <p>:ok_hand: Pronouns: She/her</p>
-    <p lang="zh-Hans">:crystal_ball: Fun fact: 我不仅会说一点普通话，还养了四只猫！</p>
+    <p lang="zh-Hans">:crystal_ball: Fun fact: 我不仅会说一点普通话，还养了四只猫和一只狗！</p>
  </div>
 
 <!---
